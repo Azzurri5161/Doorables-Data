@@ -128,7 +128,7 @@
   {
     "series_name": "Megas & Specials",
     "category": "Disney Doorables",
-    "live_data_csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmnQYyj9RtsvLzmVsyHi2kvVPYQsp5_RlilFEJpr1SRFLLUxDbRPKs0_0HhfvoetWdzkVjWWgOq3BB/pub?gid=882717683&output=csv",
+    "live_data_csv": "https://raw.githubusercontent.com/Azzurri5161/Doorables-Data/refs/heads/main/Mega_Specials_CLEAN.csv",
     "wiki_url": "https://disney-doorables.fandom.com/wiki/Megas_&_Specials"
   },
   {
@@ -158,7 +158,7 @@
   {
     "series_name": "Village Peeks",
     "category": "Disney Doorables",
-    "live_data_csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmnQYyj9RtsvLzmVsyHi2kvVPYQsp5_RlilFEJpr1SRFLLUxDbRPKs0_0HhfvoetWdzkVjWWgOq3BB/pub?gid=1863604020&output=csv",
+    "live_data_csv": "https://raw.githubusercontent.com/Azzurri5161/Doorables-Data/refs/heads/main/Village_Peeks_CLEAN.csv",
     "wiki_url": "https://disney-doorables.fandom.com/wiki/Village_Peeks"
   },
   {
