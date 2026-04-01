@@ -173,4 +173,10 @@
     "live_data_csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTKKIoEPPo4cpdp4uBOzwfMMKDFCspT3x5HJDchW9uC1qL1wI1oKRZfWsRvFif8WM2RVBThaRqsWrrH/pub?gid=2020761232&output=csv",
     "wiki_url": "https://disney-doorables.fandom.com/wiki/ReReleases"
   }
+  {
+    "series_name": "Munchlings",
+    "category": "Disney Doorables",
+    "live_data_csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRDxntgYU67B6Hcgb-ytCLZxxiSv46CL4sB4mdsOBMBWl7EHOP7aCEv5COWkHH8bbkHAX1wpidQfhYn/pub?gid=1335729580&output=csv",
+    "wiki_url": "https://disney-doorables.fandom.com/wiki/Munchlings"
+  }
 ]
